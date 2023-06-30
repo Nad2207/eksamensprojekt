@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+
+.logo{
+    font-family: sans-serif;
+    font-size: 30px;
+    color: #ffc300;
+    cursor: pointer;
+}
+
+header{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 5px 5%;
+    flex-wrap: wrap;
+}
+
+li a{
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+}
+
+.navigation li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.navigation li a {
+    transition: all 0.3s ease 0s;
+}
+
+.navigation li a:hover{
+    color: #ffc300;
+}
