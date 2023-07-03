@@ -37,3 +37,28 @@ li a{
 .navigation li a:hover{
     color: #ffc300;
 }
+
+.introduktion{
+    color: white;
+}
+
+button{
+    background: #ffc300;
+    border-radius: 20%;
+    margin-left: 350px;
+}
+
+.show{
+    color: white;
+
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: #343434;
+    padding: 0% 10%;
+    font-size: 10px;
+    text-align: center;
+}
