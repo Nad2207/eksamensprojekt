@@ -62,3 +62,17 @@ footer{
     font-size: 10px;
     text-align: center;
 }
+
+.linkedin{
+    height: 30px;
+    width: 30px;
+    margin-top: 5px;
+}
+
+.container{
+    margin-top: -80px;
+}
+
+.lidtommig{
+    color: white;
+}
