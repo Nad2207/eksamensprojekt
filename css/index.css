@@ -121,13 +121,21 @@ footer{
     li a{
         font-size: 20px;
     }
+    .billedetekst{
+        font-size: 50px;
+        bottom: 550px;
+        margin-left: 200px;
+    }
     .container{
-        display: flex;
         margin-left: 100px;
     }
     .portrætbillede{
-        width: 150%;
+        width: 800%;
         height: 300px;
+    }
+    .lidtommig{
+        font-size: 30px;
+        padding-left: 400px;
     }
     .introduktion{
         margin-right: 100px;
@@ -140,10 +148,13 @@ footer{
         height: 30px;
         cursor: pointer;
     }
+    .billedeogtekst{
+        display: flex;
+    }
     .show{
         font-size: 40px;
         text-align: center;
-        margin-top: 30px;
+        padding-top: 10px;
     }
     video{
         margin-left: 300px;
