@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function(event) {
     var slides = document.querySelectorAll(".slide");
     var currentSlide = 0;
-    var slideInterval = setInterval(nextSlide, 3000);
+    var slideInterval = setInterval(nextSlide, 2000);
   
     function nextSlide() {
       slides[currentSlide].style.display = "none";
